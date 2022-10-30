@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e853caa7-0d4f-426e-9ad1-85266b768350" name="Changes" comment="atividades do curso java">
-      <change afterPath="$PROJECT_DIR$/src/AboutMe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinhaClasse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/comentarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comentarios.java" afterDir="false" />
-    </list>
+    <list default="true" id="e853caa7-0d4f-426e-9ad1-85266b768350" name="Changes" comment="atividades do curso java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667145480723</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="atividades do curso java">
+      <created>1667151069571</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667151069571</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,5 +175,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="atividades do curso java" />
     <option name="LAST_COMMIT_MESSAGE" value="atividades do curso java" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tipos_variaveis$AboutMe.ic" NAME="AboutMe Coverage Results" MODIFIED="1667150871031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
