@@ -8,3 +8,7 @@ Repositorio para armazenar as atividades do curso Java basico da DIO
 
 [As 52 palavras reservadas do Java](http://www.linhadecodigo.com.br/artigo/83/as-52-palavras-reservadas-do-java.aspx)
 
+[Documentação Java](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
+
+[Wikipedia JavaDoc](https://pt.wikipedia.org/wiki/Javadoc)
+
